@@ -1,0 +1,11 @@
+{
+    "id": "obsidian-tools",
+    "name": "Obsidian Tools",
+    "version": "0.1.0",
+    "minAppVersion": "1.7.7",
+    "description": "Utility tools for Obsidian.",
+    "author": "",
+    "authorUrl": "",
+    "fundingUrl": "",
+    "isDesktopOnly": false
+}
